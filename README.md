@@ -26,7 +26,7 @@ This project follows a modular microservices architecture. Each module is develo
 - **Backend:** Java, Spring Boot, Spring Security, REST APIs, Microservices
 - **Frontend:** React.js, Material UI
 - **Database:** MySQL
-- **Tools:** Postman, Git, GitHub, IntelliJ, VS Code
+- **Tools:** Postman, Git, GitHub, Eclipse, VS Code
 
 ---
 
